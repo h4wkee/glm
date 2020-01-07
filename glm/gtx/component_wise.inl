@@ -1,4 +1,5 @@
 /// @ref gtx_component_wise
+#pragma once
 
 #include <limits>
 
